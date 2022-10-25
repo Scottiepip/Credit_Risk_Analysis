@@ -6,6 +6,7 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 ## Results:
 
 ### Navie Random Oversampling
+![image](https://user-images.githubusercontent.com/108709071/197661178-1bada361-4636-440b-bf21-527b6e78dfbf.png)
 
 
 
