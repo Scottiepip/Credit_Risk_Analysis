@@ -73,3 +73,6 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
   - Recall Score - Low Risk: 94%
 
 ## Summary:
+According to the results above, the Easy Ensemble AdaBoost Classifier model has the hightest balanced accuracy score of 92.5% and also the highest recall score on both High Risk and Low Risk of 91% and 94%.
+
+Therefore, the Easy Ensemble AdaBoost Classifier model is recommanded to be used to predict Credit Risk.
