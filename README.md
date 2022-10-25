@@ -27,14 +27,23 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 
 ### SMOTEENN Undersampling
+![image](https://user-images.githubusercontent.com/108709071/197661481-ff2087f4-ac60-4417-abd9-295249a24fb7.png)
+
+![image](https://user-images.githubusercontent.com/108709071/197661502-cfdbebc4-59a8-4129-8e15-32d56e343fad.png)
 
 
 
 ### Balanced Random Forest Classifier
+![image](https://user-images.githubusercontent.com/108709071/197661530-e8e14add-45f3-42d8-a03e-b240973f5205.png)
+
+![image](https://user-images.githubusercontent.com/108709071/197661557-3b7bcc27-b37f-44ba-99b6-abff17370e3e.png)
 
 
 
 ### Easy Ensemble AdaBoost Classifier
+![image](https://user-images.githubusercontent.com/108709071/197661577-5bb83715-3bfc-40b5-867f-c8be7c4fbdbc.png)
+
+![image](https://user-images.githubusercontent.com/108709071/197661597-28b78234-f855-4372-bb9d-f386dff23f83.png)
 
 
 
